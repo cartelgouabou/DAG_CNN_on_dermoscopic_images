@@ -1,0 +1,352 @@
+START OF TRIAL N:1
+Epoch:0
+Learning_rate:0.1
+Finetuning_rate:4
+END OF A TRIAL:1
+Early_stop
+Epoch:3
+Acc:63.861262798309326
+Val_acc:74.52229261398315
+BEST ACHIEVE ON TRIAL OF INDEX:1
+Best_Epoch:1
+Best_acc:61.97398900985718
+Best_acc_val:70.70063948631287
+Best_roc_val:67.31367731367732
+Best_bacc_val:65.63882063882063
+Best_f1_val:63.46153846153847
+START OF TRIAL N:2
+Epoch:0
+Learning_rate:0.1
+Finetuning_rate:8
+END OF A TRIAL:2
+Early_stop
+Epoch:45
+Acc:49.75771605968475
+Val_acc:61.78343892097473
+BEST ACHIEVE ON TRIAL OF INDEX:2
+Best_Epoch:19
+Best_acc:81.09878897666931
+Best_acc_val:75.79618096351624
+Best_roc_val:81.45372645372645
+Best_bacc_val:72.35053235053235
+Best_f1_val:75.10204081632654
+START OF TRIAL N:3
+Epoch:0
+Learning_rate:0.1
+Finetuning_rate:16
+END OF A TRIAL:3
+Early_stop
+Epoch:11
+Acc:91.25503897666931
+Val_acc:49.68152940273285
+BEST ACHIEVE ON TRIAL OF INDEX:3
+Best_Epoch:4
+Best_acc:79.1124701499939
+Best_acc_val:65.10416865348816
+Best_roc_val:76.24078624078624
+Best_bacc_val:68.73464373464373
+Best_f1_val:71.60493827160494
+START OF TRIAL N:4
+Epoch:0
+Learning_rate:0.1
+Finetuning_rate:32
+END OF A TRIAL:4
+Early_stop
+Epoch:9
+Acc:90.89518189430237
+Val_acc:79.61783409118652
+BEST ACHIEVE ON TRIAL OF INDEX:4
+Best_Epoch:9
+Best_acc:90.89518189430237
+Best_acc_val:79.61783409118652
+Best_roc_val:89.78705978705979
+Best_bacc_val:80.08190008190009
+Best_f1_val:80.53097345132743
+START OF TRIAL N:5
+Epoch:0
+Learning_rate:0.1
+Finetuning_rate:64
+END OF A TRIAL:5
+Early_stop
+Epoch:5
+Acc:50.6248414516449
+Val_acc:70.06369233131409
+BEST ACHIEVE ON TRIAL OF INDEX:5
+Best_Epoch:1
+Best_acc:50.038254261016846
+Best_acc_val:29.299363493919373
+Best_roc_val:59.02538902538903
+Best_bacc_val:49.549549549549546
+Best_f1_val:66.46525679758307
+START OF TRIAL N:6
+Epoch:0
+Learning_rate:0.01
+Finetuning_rate:4
+END OF A TRIAL:6
+Early_stop
+Epoch:34
+Acc:90.74215888977051
+Val_acc:64.33120965957642
+BEST ACHIEVE ON TRIAL OF INDEX:6
+Best_Epoch:4
+Best_acc:80.84672093391418
+Best_acc_val:63.54166865348816
+Best_roc_val:78.5913185913186
+Best_bacc_val:65.95823095823096
+Best_f1_val:72.52747252747254
+START OF TRIAL N:7
+Epoch:0
+Learning_rate:0.01
+Finetuning_rate:8
+END OF A TRIAL:7
+Early_stop
+Epoch:6
+Acc:90.53812623023987
+Val_acc:64.33120965957642
+BEST ACHIEVE ON TRIAL OF INDEX:7
+Best_Epoch:2
+Best_acc:78.57689261436462
+Best_acc_val:70.06369233131409
+Best_roc_val:80.56101556101557
+Best_bacc_val:64.5945945945946
+Best_f1_val:71.73913043478262
+START OF TRIAL N:8
+Epoch:0
+Learning_rate:0.01
+Finetuning_rate:16
+END OF A TRIAL:8
+Early_stop
+Epoch:7
+Acc:91.37974977493286
+Val_acc:71.97452187538147
+BEST ACHIEVE ON TRIAL OF INDEX:8
+Best_Epoch:1
+Best_acc:75.92450976371765
+Best_acc_val:68.15286874771118
+Best_roc_val:79.17280917280918
+Best_bacc_val:71.43325143325143
+Best_f1_val:74.90039840637449
+START OF TRIAL N:9
+Epoch:0
+Learning_rate:0.01
+Finetuning_rate:32
+END OF A TRIAL:9
+Early_stop
+Epoch:4
+Acc:91.60928130149841
+Val_acc:77.60416865348816
+BEST ACHIEVE ON TRIAL OF INDEX:9
+Best_Epoch:4
+Best_acc:91.60928130149841
+Best_acc_val:77.60416865348816
+Best_roc_val:90.4995904995905
+Best_bacc_val:80.48730548730548
+Best_f1_val:82.73092369477911
+START OF TRIAL N:10
+Epoch:0
+Learning_rate:0.01
+Finetuning_rate:64
+END OF A TRIAL:10
+Early_stop
+Epoch:7
+Acc:90.02805352210999
+Val_acc:77.07006335258484
+BEST ACHIEVE ON TRIAL OF INDEX:10
+Best_Epoch:2
+Best_acc:79.0614664554596
+Best_acc_val:77.07006335258484
+Best_roc_val:86.60114660114661
+Best_bacc_val:75.02047502047502
+Best_f1_val:79.4007490636704
+START OF TRIAL N:11
+Epoch:0
+Learning_rate:0.001
+Finetuning_rate:4
+END OF A TRIAL:11
+Early_stop
+Epoch:7
+Acc:90.05355834960938
+Val_acc:71.97452187538147
+BEST ACHIEVE ON TRIAL OF INDEX:11
+Best_Epoch:2
+Best_acc:81.48431777954102
+Best_acc_val:69.42675113677979
+Best_roc_val:79.29565929565929
+Best_bacc_val:65.06142506142506
+Best_f1_val:71.37546468401487
+START OF TRIAL N:12
+Epoch:0
+Learning_rate:0.001
+Finetuning_rate:8
+END OF A TRIAL:12
+Early_stop
+Epoch:2
+Acc:92.22137331962585
+Val_acc:60.50955653190613
+BEST ACHIEVE ON TRIAL OF INDEX:12
+Best_Epoch:2
+Best_acc:92.22137331962585
+Best_acc_val:60.50955653190613
+Best_roc_val:78.2022932022932
+Best_bacc_val:54.090909090909086
+Best_f1_val:68.73065015479877
+START OF TRIAL N:13
+Epoch:0
+Learning_rate:0.001
+Finetuning_rate:16
+END OF A TRIAL:13
+Early_stop
+Epoch:2
+Acc:91.09920859336853
+Val_acc:64.33120965957642
+BEST ACHIEVE ON TRIAL OF INDEX:13
+Best_Epoch:0
+Best_acc:73.45064878463745
+Best_acc_val:59.89583134651184
+Best_roc_val:75.21294021294021
+Best_bacc_val:65.94185094185094
+Best_f1_val:73.30960854092525
+START OF TRIAL N:14
+Epoch:0
+Learning_rate:0.001
+Finetuning_rate:32
+END OF A TRIAL:14
+Early_stop
+Epoch:3
+Acc:95.58786153793335
+Val_acc:77.07006335258484
+BEST ACHIEVE ON TRIAL OF INDEX:14
+Best_Epoch:3
+Best_acc:95.58786153793335
+Best_acc_val:77.07006335258484
+Best_roc_val:89.06224406224406
+Best_bacc_val:60.00409500409501
+Best_f1_val:71.42857142857143
+START OF TRIAL N:15
+Epoch:0
+Learning_rate:0.0001
+Finetuning_rate:4
+END OF A TRIAL:15
+Early_stop
+Epoch:14
+Acc:90.71665406227112
+Val_acc:59.87260937690735
+BEST ACHIEVE ON TRIAL OF INDEX:15
+Best_Epoch:5
+Best_acc:80.59168457984924
+Best_acc_val:40.76433181762695
+Best_roc_val:73.8083538083538
+Best_bacc_val:57.2972972972973
+Best_f1_val:69.07894736842107
+START OF TRIAL N:16
+Epoch:0
+Learning_rate:0.0001
+Finetuning_rate:8
+END OF A TRIAL:16
+Early_stop
+Epoch:3
+Acc:94.74623799324036
+Val_acc:73.88535141944885
+BEST ACHIEVE ON TRIAL OF INDEX:16
+Best_Epoch:1
+Best_acc:82.35144019126892
+Best_acc_val:64.96815085411072
+Best_roc_val:82.2932022932023
+Best_bacc_val:66.87141687141687
+Best_f1_val:72.8624535315985
+START OF TRIAL N:17
+Epoch:0
+Learning_rate:0.0001
+Finetuning_rate:16
+END OF A TRIAL:17
+Early_stop
+Epoch:2
+Acc:95.4093337059021
+Val_acc:68.78980994224548
+BEST ACHIEVE ON TRIAL OF INDEX:17
+Best_Epoch:1
+Best_acc:87.19714283943176
+Best_acc_val:60.50955653190613
+Best_roc_val:76.32268632268632
+Best_bacc_val:65.97870597870597
+Best_f1_val:71.48288973384031
+START OF TRIAL N:18
+Epoch:0
+Learning_rate:0.0001
+Finetuning_rate:32
+END OF A TRIAL:18
+Early_stop
+Epoch:1
+Acc:93.19051504135132
+Val_acc:45.85987329483032
+BEST ACHIEVE ON TRIAL OF INDEX:18
+Best_Epoch:0
+Best_acc:72.3794937133789
+Best_acc_val:54.16666865348816
+Best_roc_val:81.26126126126127
+Best_bacc_val:59.1031941031941
+Best_f1_val:70.58823529411765
+START OF TRIAL N:19
+Epoch:0
+Learning_rate:1e-05
+Finetuning_rate:4
+END OF A TRIAL:19
+Early_stop
+Epoch:1
+Acc:58.73501896858215
+Val_acc:69.42675113677979
+BEST ACHIEVE ON TRIAL OF INDEX:19
+Best_Epoch:1
+Best_acc:58.73501896858215
+Best_acc_val:69.42675113677979
+Best_roc_val:63.923013923013926
+Best_bacc_val:56.240786240786235
+Best_f1_val:38.21656050955414
+START OF TRIAL N:20
+Epoch:0
+Learning_rate:1e-05
+Finetuning_rate:8
+END OF A TRIAL:20
+Early_stop
+Epoch:18
+Acc:90.43611288070679
+Val_acc:62.42038011550903
+BEST ACHIEVE ON TRIAL OF INDEX:20
+Best_Epoch:6
+Best_acc:76.40907764434814
+Best_acc_val:63.694268465042114
+Best_roc_val:77.61670761670763
+Best_bacc_val:58.21048321048321
+Best_f1_val:69.33333333333334
+START OF TRIAL N:21
+Epoch:0
+Learning_rate:1e-05
+Finetuning_rate:16
+END OF A TRIAL:21
+Early_stop
+Epoch:11
+Acc:90.13006687164307
+Val_acc:68.78980994224548
+BEST ACHIEVE ON TRIAL OF INDEX:21
+Best_Epoch:9
+Best_acc:86.96761131286621
+Best_acc_val:65.6050980091095
+Best_roc_val:74.74201474201475
+Best_bacc_val:66.92874692874693
+Best_f1_val:69.70954356846472
+START OF TRIAL N:22
+Epoch:0
+Learning_rate:1e-05
+Finetuning_rate:32
+END OF A TRIAL:22
+Early_stop
+Epoch:6
+Acc:90.15557169914246
+Val_acc:63.05732727050781
+BEST ACHIEVE ON TRIAL OF INDEX:22
+Best_Epoch:3
+Best_acc:79.85208034515381
+Best_acc_val:73.88535141944885
+Best_roc_val:72.006552006552
+Best_bacc_val:56.367731367731366
+Best_f1_val:69.62025316455697
