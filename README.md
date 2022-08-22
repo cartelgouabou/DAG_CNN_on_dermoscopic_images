@@ -5,7 +5,9 @@ Official implementation code of the paper [Ensemble Method of Convolutional Neur
 
 ### Abstract
 The early detection of melanoma is the most efficient way to reduce its mortality. Dermatologists achieve this task with the help of dermoscopy, a non-invasive tool allowing the visualization ofto visualize patterns of skin lesions. Computer-aided diagnosis (CAD) systems developed on dermoscopic images are needed to assist dermatologists. These systems rely mainly on multiclass classification approaches. However, theNevertheless, multiclass classification of skin lesions by an automated system remains a challenging task. Decomposing a multiclass problem into a binary problem can reduce the complexity of the initial problem and increase the overall performance. This paperwork proposes a CAD system to classify dermoscopic images into three diagnosis classes: melanoma, nevi, and seborrheic keratosis. We introduce a novel ensemble scheme of convolutional neural networks (CNNs), inspired by decomposition and ensemble methods, to improve the performance of the CAD systemCAD performance. Unlike conventional ensemble methods, we use directed acyclic graph to aggregate binarypairwise CNNs for melanoma detection task. On the ISIC 2018 public dataset, our method achievesed the best balanced accuracy (76.6%) amongbetter than multiclass CNNs, an ensemble of multiclass CNNs with classical aggregation methods, and other related works. Ours results revealed that directed acyclic graph is a meaningful approach to develop a reliable and robust automated diagnosis system for the multiclass classification of dermoscopic images.
+## Abstract figure
 
+![Alt text](proposed_framework.png?raw=true "DAG_CNN")
 ### Dependency
 The code is buil with following libraries
 - Tensorflow 2.4
