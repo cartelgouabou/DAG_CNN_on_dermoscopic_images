@@ -19,15 +19,6 @@ The code is buil with following libraries
 ### Dataset
 - ISIC2018 [ISIC2018](https://challenge.isic-archive.com/data/). The original data will be preprocessed and split by `preprocessing.py`.
 
-### Training
-We provide several training examples with this repo:
-
-- To t
-
-```bash
-python 
-```
-
 
 ### Reference
 
