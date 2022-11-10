@@ -1,4 +1,4 @@
-## Ensemble_method_of_cnn_with_DAG_applied_on_dermoscopic_images (under editing)
+## Ensemble Method of CNNs with DAG applied on Dermoscopic Images 
 _________________
 
 Official implementation code of the paper [Ensemble Method of Convolutional Neural Networks with Directed Acyclic Graph Using Dermoscopic Images: Melanoma Detection Application](https://www.mdpi.com/1424-8220/21/12/3999) in Tensorflow.
